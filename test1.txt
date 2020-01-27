@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is A61E-6EAB
-
- Directory of c:\Users\Darko\Desktop\GitProject1
-
-27.01.2020.  19:53    <DIR>          .
-27.01.2020.  19:53    <DIR>          ..
-27.01.2020.  19:53                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  177.398.996.992 bytes free
+ 
+Change number 2.
